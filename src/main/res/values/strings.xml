@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EtuDers</string>
+    <string name="title_activity_yukleme_ekrani">YuklemeEkrani</string>
+    <string name="title_activity_ders_listesi">DersListesi</string>
+    <string name="large_text">DersListesi</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
